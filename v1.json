@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-09-20T08:58:05.746Z",
+  "updated_at": "2026-10-10T12:30:44.815Z",
   "themes": [
     {
       "name": "Adhesive Note",
@@ -78,15 +78,15 @@
         "zh-CN": "赛博朋克命令终端主题，带 3D 地球与 HUD 风格节点卡片。",
         "en": "A cyberpunk command terminal theme with an interactive 3D globe and HUD-style node cards."
       },
-      "version": "1.5.5",
+      "version": "1.5.6",
       "author": {
         "zh-CN": "WayJam",
         "en": "WayJam"
       },
       "url": "https://github.com/wayjam/komari-theme-commander",
       "preview": "https://raw.githubusercontent.com/wayjam/komari-theme-commander/refs/heads/main/preview.png",
-      "download": "https://github.com/wayjam/komari-theme-commander/releases/download/v1.5.5/komari-theme-commander%401.5.5.zip",
-      "sha256": "66f4520b1ec26533134c2674d4136ee24ab0b7be49248b1e64ed47873ae6d1ca"
+      "download": "https://github.com/wayjam/komari-theme-commander/releases/download/v1.5.6/komari-theme-commander%401.5.6.zip",
+      "sha256": "a851ab842a69f0859f561773c261222795c0fb831126e9082165c1b85d07be8a"
     },
     {
       "name": {
@@ -123,12 +123,12 @@
       "name": "Emerald Globe Pro",
       "short": "emerald-globe-pro",
       "description": "面向 Komari 的全球探针监控主题，集成资源分析、流量趋势与风险概览",
-      "version": "1.0.6",
+      "version": "1.0.13",
       "author": "Davies_Allen",
       "url": "https://github.com/allen0039/komari-theme-emerald-globe-pro",
       "preview": "https://raw.githubusercontent.com/allen0039/komari-theme-emerald-globe-pro/main/docs/preview.png",
-      "download": "https://github.com/allen0039/komari-theme-emerald-globe-pro/releases/download/v1.0.6/komari-theme-emerald-globe-pro-build-2008cb9.zip",
-      "sha256": "557e9643cdf9a317c60669772d96abccc7ef31e22d232aac7a3460956a22ee39"
+      "download": "https://github.com/allen0039/komari-theme-emerald-globe-pro/releases/download/v1.0.13/komari-theme-emerald-globe-pro-build-b69e39c.zip",
+      "sha256": "3554ee3e1af05bd04726dea8b9554ed645e98391f163b2e031002787f30c6330"
     },
     {
       "name": "Komari Glass",
@@ -145,12 +145,12 @@
       "name": "Komari Glassmorphism",
       "short": "Glassmorphism",
       "description": "A Glassmorphism theme for Komari",
-      "version": "3.3.7",
+      "version": "3.3.8",
       "author": "sanrokamlan",
       "url": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism",
       "preview": "https://raw.githubusercontent.com/sanrokamlan-prog/komari-theme-Glassmorphism/refs/heads/main/docs/preview.png",
-      "download": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism/releases/download/v3.3.7/komari-theme-Glassmorphism-build-bf83765.zip",
-      "sha256": "6f0a2e1bab9e861d4d1d2e65ea54598307938e6c4f8d9616efaf99d2597c7d2f"
+      "download": "https://github.com/sanrokamlan-prog/komari-theme-Glassmorphism/releases/download/v3.3.8/komari-theme-Glassmorphism-build-e0aedb0.zip",
+      "sha256": "187955b8e68532293a35616d1c2e19aad8f7f0934ec9c5a163a632bb5b288148"
     },
     {
       "name": "Gloria Universe",
@@ -178,12 +178,12 @@
       "name": "ink",
       "short": "ink",
       "description": "A minimal ink theme for Komari (deep navy-black, shadcn-inspired)",
-      "version": "0.6.11",
+      "version": "0.6.14",
       "author": "jacob-bytes",
       "url": "https://github.com/jacob-bytes/komari-theme-ink",
       "preview": "https://raw.githubusercontent.com/jacob-bytes/komari-theme-ink/main/docs/preview.png",
-      "download": "https://github.com/jacob-bytes/komari-theme-ink/releases/download/v0.6.11/ink-build-f554e7f.zip",
-      "sha256": "b96c4522ff48de808d5856f542883b1372d227533f1f7fda260eb4f481285a40"
+      "download": "https://github.com/jacob-bytes/komari-theme-ink/releases/download/v0.6.14/ink-build-a706123.zip",
+      "sha256": "9703c7d84a5501b0731affad1e9babc608ea4b20a15e54dcecbd8ece11c85ebd"
     },
     {
       "name": "junimo",
@@ -262,12 +262,12 @@
       "name": "Komari Carbon",
       "short": "komari-theme-carbon",
       "description": "IBM Carbon + IBM Plex style Komari monitoring theme",
-      "version": "0.1.9-enhance1",
+      "version": "0.2.0",
       "author": "gengyue2468",
       "url": "https://github.com/gengyue2468/komari-theme-carbon",
       "preview": "https://raw.githubusercontent.com/gengyue2468/komari-theme-carbon/master/preview.png",
-      "download": "https://github.com/gengyue2468/komari-theme-carbon/releases/download/v0.1.9-enhance1/komari-theme-carbon-v0.1.9-enhance1.zip",
-      "sha256": "85793f76481e775eb1c2bd59b0260f716e452fa9dc7686719b129c9d7dec9c8e"
+      "download": "https://github.com/gengyue2468/komari-theme-carbon/releases/download/v0.2.0/komari-theme-carbon-v0.2.0.zip",
+      "sha256": "b78909a8f85367dabe080fadf04660356bf394ab8d03d4f6af56e1db21547bdc"
     },
     {
       "name": "Komari Home",
@@ -337,34 +337,34 @@
       "name": "Komari-Theme-LuminaLite",
       "short": "LuminaLite",
       "description": "Komari-Theme-LuminaLite",
-      "version": "3.0.1",
+      "version": "3.0.2",
       "author": "JohnsonRan",
       "url": "https://github.com/JohnsonRan/Komari-Theme-LuminaLite",
       "preview": "https://github.com/JohnsonRan/Komari-Theme-LuminaLite/raw/main/preview.png",
-      "download": "https://github.com/JohnsonRan/Komari-Theme-LuminaLite/releases/download/v3.0.1/Komari-Theme-LuminaLite-v3.0.1.zip",
-      "sha256": "329169a477eb557ed9f7ef2aaa2a1f3d483a75ea49edda51c8ada9226dea4fa7"
+      "download": "https://github.com/JohnsonRan/Komari-Theme-LuminaLite/releases/download/v3.0.2/Komari-Theme-LuminaLite-v3.0.2.zip",
+      "sha256": "b3f42d338efd0fdd4dec8fdf7be1295bd5022c3a16efee5670d4285c55c38840"
     },
     {
       "name": "Komari-Theme-LuminaPlus",
       "short": "LuminaPlus",
       "description": "Komari-Theme-LuminaPlus",
-      "version": "1.3.4",
+      "version": "1.3.6",
       "author": "shark&shanyang",
       "url": "https://github.com/shanyang242/Komari-Theme-LuminaPlus",
       "preview": "https://raw.githubusercontent.com/shanyang242/Komari-Theme-LuminaPlus/refs/heads/main/docs/images/v1.1.9/overview-large-card-solid.png",
-      "download": "https://github.com/shanyang242/Komari-Theme-LuminaPlus/releases/download/v1.3.4/Komari-Theme-LuminaPlus-v1.3.4.zip",
-      "sha256": "38f1c2396f8df53047e3dd50317ca2d6f1d2f9698cf5f03d00300c610a216512"
+      "download": "https://github.com/shanyang242/Komari-Theme-LuminaPlus/releases/download/v1.3.6/Komari-Theme-LuminaPlus-v1.3.6.zip",
+      "sha256": "07deac75bcaef949fb136259b37ace0ed16b83103872577d2d65d81ab3fc3013"
     },
     {
       "name": "Komari Material",
       "short": "Material",
       "description": "A Material Design 3 theme for Komari Monitor",
-      "version": "1.4.0",
+      "version": "1.4.1",
       "author": "Liebesfreud",
       "url": "https://github.com/Liebesfreud/Komari-Material",
       "preview": "https://raw.githubusercontent.com/Liebesfreud/Komari-Material/main/docs/preview.png",
-      "download": "https://github.com/Liebesfreud/Komari-Material/releases/download/release-v1.4.0/komari-theme-material-build-90daf00.zip",
-      "sha256": "1368fa2d3a41d38ea2dae29394e4b354979010ee4509ea11b55b42735b4653d4"
+      "download": "https://github.com/Liebesfreud/Komari-Material/releases/download/release-v1.4.1/komari-theme-material-build-57e7aee.zip",
+      "sha256": "94095b443924c739a379e146335a64987167b303fd7197eba689a208e4a5bddd"
     },
     {
       "name": "Komari Mikus",
@@ -392,12 +392,12 @@
       "name": "Minimal",
       "short": "minimal",
       "description": "单色极简主题，柔和卡片布局，支持网格与表格双视图 / A monochrome minimal theme with soft cards and grid/table views.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "lizhenmiao",
       "url": "https://github.com/lizhenmiao/komari-theme-minimal",
       "preview": "https://raw.githubusercontent.com/lizhenmiao/komari-theme-minimal/master/preview.png",
-      "download": "https://github.com/lizhenmiao/komari-theme-minimal/releases/download/v1.0.0/komari-theme-minimal-1.0.0.zip",
-      "sha256": "7a5245523cf8b86dcd3e6ef3843be48d79d22f8bf7d4dddf0a310134a47c7bb7"
+      "download": "https://github.com/lizhenmiao/komari-theme-minimal/releases/download/v1.0.1/komari-theme-minimal-1.0.1.zip",
+      "sha256": "8914ca86b20ab4f975008aaa46990055cb50b92ee96d89f3742b3b17709f3773"
     },
     {
       "name": "MiStatus Komari",
